@@ -4,6 +4,7 @@ public class Prueba {
 		
 		System.out.println("Adrian Rebollar Baños");
 		System.out.println("Leon, 2000");
+		System.out.println("Leon Windows 10 Pro Education");
 		
 	}
 
